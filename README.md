@@ -7,7 +7,7 @@ Frontend körs med **Vite + React**, och backend körs med **Node.js + Express +
 
 - Lägg till person (POST)
 - Hämta alla personer (GET)
-- Hämta en person (GET)- 
+- Hämta en person (GET)
 - Uppdatera person (PUT)
 - Ta bort person (DELETE)
 - Fullt fungerande frontend med formulär och lista
