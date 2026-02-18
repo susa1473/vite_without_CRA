@@ -1,0 +1,49 @@
+# --- Node ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# --- Logs ---
+logs/
+*.log
+*.log.*
+debug.log
+error.log
+
+# --- Environment files ---
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# --- Build output ---
+dist/
+build/
+.cache/
+.vite/
+
+# --- Vite ---
+vite.config.ts.timestamp*
+vite.config.js.timestamp*
+
+# --- TypeScript ---
+*.tsbuildinfo
+
+# --- Editor folders ---
+.vscode/
+.idea/
+*.swp
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+
+# --- Optional: ignore backend build (if you ever add one) ---
+server/dist/
+server/build/
+
+# --- Optional: ignore frontend build (already covered by dist/) ---
+client/dist/
